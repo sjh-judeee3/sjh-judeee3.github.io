@@ -110,22 +110,26 @@ author:
   location         : "Republic of Korea"
   email            :
   links:
-    - label: "Email"
+    - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:judys0303@gmail.com"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sjh-judeee3"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/sjh_judeee3/
+      url: "https://www.instagram.com/sjh_judeee3/"
+
 
 # Site Footer
 footer:
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:judys0303@gmail.com"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/sjh_judeee3/
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:gjwnsghks02@gmail.com"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://www.instagram.com/sjh_judeee3/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sjh-judeee3/sjh-judeee3.github.io"
