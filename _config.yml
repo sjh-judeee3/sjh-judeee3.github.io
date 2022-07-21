@@ -21,9 +21,9 @@ title_separator          : "-"
 subtitle                 : "trial sample"# site tagline that appears below site title in masthead
 name                     : "juhee"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://sample.github.io"
+url                      : # the base hostname & protocol for your site e.g. "https://sjh-judeee3.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : "sjh-judeee3/sample.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "sjh-judeee3/sjh-judeee3.github.io"# GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Page Title"# overrides the website title displayed in the masthead, use " " for no title
